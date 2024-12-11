@@ -1,8 +1,6 @@
-# Database_311_Recit9
-
-# SQL Database Learning Repository
 
 Welcome to the SQL Database Learning Repository! This repository is designed to help students and enthusiasts learn SQL through structured database schemas, sample queries, and example datasets.
+This repository basically constructs for the STAT311 courses at METU.
 
 ## Repository Structure
 ```
@@ -62,7 +60,6 @@ This repository is licensed under the MIT License.
    ```bash
    cd repository-name
    ```
-
 3. Load a schema into your database:
    - For MySQL:
      ```bash
@@ -79,4 +76,4 @@ We welcome contributions! To contribute:
 
 ---
 
-Happy learning SQL! If you have questions or suggestions, feel free to open an issue.
+Happy learning SQL! If you have questions or suggestions, feel free to contact.
