@@ -54,16 +54,16 @@ This repository is licensed under the MIT License.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/mrkn7/Database_311_Recit9.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd repository-name
+   cd Database_311_Recit9
    ```
 3. Load a schema into your database:
    - For MySQL:
      ```bash
-     mysql -u username -p database_name < sql-schemas/company-database.sql
+     mysql -u username -p Database_311_Recit9 < sql-schemas/company-database.sql
      ```
 4. Use the provided queries and data to practice SQL commands.
 
